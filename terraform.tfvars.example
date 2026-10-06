@@ -1,0 +1,10 @@
+# No incluya identificadores reales ni credenciales en este archivo.
+project_name = "brandonlab-terraform"
+environment  = "qa"
+location     = "chilecentral"
+instance     = "001"
+
+service_plan_sku_name = "F1"
+application_type      = "web"
+node_version          = "24-lts"
+log_analytics_sku     = "PerGB2018"
